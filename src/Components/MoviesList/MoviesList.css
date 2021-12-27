@@ -1,0 +1,11 @@
+.my-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 20px;
+  padding: 20px;
+  background-color: rgba(87, 140, 240, 0.246);
+  box-shadow: 0 3px 10px 0 #aaa;
+
+  cursor: pointer;
+}
